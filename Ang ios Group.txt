@@ -1,18 +1,12 @@
 ﻿{
 "name": "Angtv-ios64",
-"author": "ดูฟรีเพื่อการศึกษา ห้ามใช้เพื่อการพาณิชย์นะจ๊ะ  ",
+"author": "ทดสอบเพื่อการศึกษา ห้ามใช้เพื่อการพาณิชย์นะจ๊ะ  ",
 "image": "https://dl.dropbox.com/s/qr0n44is3rxpo8z/balck%20apple2.jpg?dl=0",
 "url": "http://tiny.cc/Angios64",
 "groups": [
  
 
 
-{
-"name": "ทีวี ดิจิตอล",
-"image": "https://www.234.in.th/images/2021/03/26/Digital-tv.png",
-"url": "http://tiny.cc/dig55015",
-"import": false
-},	
 {
 "name": "ทีวี บันเทิง ",
 "image": "http://freecast.s3.amazonaws.com/SelectTV/Landing/cable-cutter/view-channels-modal-logos_03.jpg",
